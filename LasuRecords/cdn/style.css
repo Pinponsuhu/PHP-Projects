@@ -1,0 +1,6 @@
+.shadow{
+    box-shadow: 0 0 2px gray;
+}
+ul li a:active{
+    color: rgb(77, 126, 3);
+}
